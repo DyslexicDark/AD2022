@@ -1,0 +1,26 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-zise: 30px;
+	line-head: 34px;
+}
+.container {
+	width: 100px;
+	height: 80px;
+	background-color: antiquewhite;
+	display: flex;
+}
+.container >a {
+	text-declaration: none;
+	font-size: 14px;
+}
+.container >a:hover{
+	color: blueviolet;
+	border-style: solid;
+	border-color: blue;
+	Border-width: 1px;
+}
+
+.container
+{
+}
